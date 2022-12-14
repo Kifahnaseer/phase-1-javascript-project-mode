@@ -29,7 +29,7 @@ const showMovies = (data) => {
             const box = document.createElement("div")
             box.classList.add("box")
             box.innerHTML = `
-                <img src="${imagePath}" alt="" />
+                <img src=${imagePath}" alt="" />
                 <div class="overlay">
                     <div class="title"> 
                         <h2> ${result.original_title}  </h2>
