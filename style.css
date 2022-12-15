@@ -9,7 +9,7 @@
 .main {
     width: 100%;
     min-height: 100vh;
-    background-color: black;
+    background-color: white(252, 240, 240);
 }
 
 .row {
@@ -43,14 +43,14 @@
     bottom: -100%;
     font-weight: bold;
     padding: 20px;
-    border-radius: 13px 13px 0px 0px;
+    border-radius: 10px 10px 0px 0px;
     left: 0;
     transition: 1.5s;
     background-color: green;
 }
 
 .box span {
-    color: orange;
+    color: rgb(0, 255, 242);
     display: inline-block;
     font-weight: bold;
     font-size: 25px;
@@ -81,11 +81,11 @@
     margin-top: 10px;
     font-size: 30px;
     border-radius: 25px;
-    transition: 1s;
+    transition: 5s;
     margin-bottom: 15px;
 }
 
 #search:focus {
-    background-color: white;
-    color: black;
+    background-color: rgb(68, 55, 55);
+    color: rgb(230, 191, 191);
 }
