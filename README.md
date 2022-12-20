@@ -10,7 +10,7 @@ Creating a new project folder and index.js ,index.html and style.css files. Usin
 ## Running.
 The project will run when you use the Go Live server.
 
-## Description
+## Description.
 As a user, I can:
 
 See the details of the movie when I search for it , including its Poster and the description of the movie and the its rate .
