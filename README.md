@@ -18,7 +18,7 @@ See the details of the movie when I search for it , including its Poster and the
 ## Author.
 Kifah Abdinasir- *Initial work* - [Kifahnaseer](<https://github.com/Kifahnaseer/phase-1-javascript-project-mode.git>)
 
-## License
+## License. 
 This project is licensed under the MIT License
 Documentation
 -------------
