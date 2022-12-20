@@ -4,7 +4,7 @@
 Creating a new project folder and index.js ,index.html and style.css files. Using a public API to fetch .
 
 ## Running
-
+The project will run when you use the Go Live server.
 
 ## Description
 As a user, I can:
