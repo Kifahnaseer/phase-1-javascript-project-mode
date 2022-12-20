@@ -15,7 +15,7 @@ As a user, I can:
 
 See the details of the movie when I search for it , including its Poster and the description of the movie and the its rate .
 
-## Author
+## Author.
 Kifah Abdinasir- *Initial work* - [Kifahnaseer](<https://github.com/Kifahnaseer/phase-1-javascript-project-mode.git>)
 
 ## License
