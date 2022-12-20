@@ -13,7 +13,7 @@ The project will run when you use the Go Live server.
 ## Description.
 As a user, I can:
 
-See the details of the movie when I search for it , including its Poster and the description of the movie and the its rate .
+See the details of the movie when I search for it including its Poster and the description of the movie and the its rate .
 
 ## Author.
 Kifah Abdinasir- *Initial work* - [Kifahnaseer](<https://github.com/Kifahnaseer/phase-1-javascript-project-mode.git>)
