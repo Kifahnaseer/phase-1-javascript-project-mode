@@ -1,7 +1,7 @@
 ## FINAL PHASE 1 PROJECT. 
 
 ## Requirements.
-### Prerequisites
+### Prerequisites.
 * node v14.17.4 and above
 * npm 6.14.14 and above
 * Vue 2.6.11
