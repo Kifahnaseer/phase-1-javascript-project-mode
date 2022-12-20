@@ -1,4 +1,4 @@
-## FINAL PHASE 1 PROJECT
+## FINAL PHASE 1 PROJECT. 
 
 ## Requirements.
 ### Prerequisites
