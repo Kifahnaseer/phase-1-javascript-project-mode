@@ -8,7 +8,7 @@ const response = await fetch(url)
 const data = await response.json()
 showMovies(data)
 }
-(APIURL);
+getMovies(APIURL);
 
 
 const showMovies = (data) => {
